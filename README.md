@@ -31,7 +31,9 @@ The calculator is designed to be simple, intuitive, and beginner-friendly while 
 # Technologies Used
 
 HTML – Structure
+<br>
 CSS – Styling and layout
+<br>
 JavaScript – Calculator logic and interactivity
 
 # Author
